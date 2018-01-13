@@ -1,1 +1,1 @@
-A few past computer science projects and assignments.
+A few past computer science projects and assignments. All coded in Visual Studio.
