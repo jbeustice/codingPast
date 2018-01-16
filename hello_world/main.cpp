@@ -1,6 +1,6 @@
 /*	Name: JBEustice
-*		Year: 2018
-*		Description: a really lame/embellished "Hello Wrorld" program
+*	Year: 2018
+*	Description: a really lame/embellished "Hello Wrorld" program
 */
 
 #include <candidate.h>
